@@ -1,4 +1,4 @@
-![alt text](https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=5000)
+![alt text](https://cutt.ly/6b1WJIw)
 - 👋 Hi, I’m @Aman-byte-hacker
 - 😎 Google me : trytocode founder
 - 👀 I’m interested in full stack web development and Ethical Hacking ...
