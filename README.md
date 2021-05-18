@@ -1,4 +1,4 @@
-<div style="text-align:center"><img style="display:block; margin-left:auto; margin-right:auto;" src="https://cutt.ly/6b1WJIw"><img></div>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://cutt.ly/6b1WJIw"><img>
 - 👋 Hi, I’m @Aman-byte-hacker
 - 😎 Google me : trytocode founder
 - 👀 I’m interested in full stack web development and Ethical Hacking ...
