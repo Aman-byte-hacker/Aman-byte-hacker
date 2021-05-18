@@ -1,4 +1,4 @@
-![alt text](https://cutt.ly/6b1WJIw)
+<div style="text-align:center">![alt text](https://cutt.ly/6b1WJIw)</div>
 - 👋 Hi, I’m @Aman-byte-hacker
 - 😎 Google me : trytocode founder
 - 👀 I’m interested in full stack web development and Ethical Hacking ...
