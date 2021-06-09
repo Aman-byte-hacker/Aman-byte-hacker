@@ -1,5 +1,4 @@
 <img style="display:block; margin-left:auto; margin-right:auto;" src="https://cutt.ly/6b1WJIw"><img>
-<img src="https://sendeyo.com/en/f678d0a897"></img>
 - 👋 Hi, I’m @Aman-byte-hacker
 - 😎 Google me : trytocode founder
 - 👀 I’m interested in full stack web development and Ethical Hacking ...
