@@ -1,4 +1,3 @@
-<img style="display:block; margin-left:auto; margin-right:auto;" src="https://cutt.ly/6b1WJIw"><img>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Aman-byte-hacker)
 - 👋 Hi, I’m @Aman-byte-hacker
 - 😎 Google me : trytocode founder
