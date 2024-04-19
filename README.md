@@ -1,4 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Aman-byte-hacker)
 - 👋 Hi, I’m Aman vyas
 - 😎 Google me : Aman vyas Linkedin
 - 👀 I’m interested in full stack web development and Ethical Hacking ...
